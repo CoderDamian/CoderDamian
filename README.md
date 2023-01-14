@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderdamian)](https://github.com/coderdamian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderdamian&layout=compact)](https://github.com/coderdamian/github-readme-stats)
